@@ -7,4 +7,4 @@ navigate to the <h2><i>python folder</i></h2> directory , then execute the follw
 On windows 10 open CMD and run the FileCategorizer.py file with two args source dir & destination dir as following :</BR>
  cmd > python .\FileCategorizer.py "E:\\TestJavaProjects\\one-k-files\\files" "E:\\TestJavaProjects\\one-k-files\\files\\categ"
 
-![image](https://github.com/Bashar-Othman/tamatem-files-categs/assets/26125735/cd2255b0-d3b1-4493-ba85-b306e33c3ecf)
+![image](https://github.com/Bashar-Othman/tamatem-files-categs/assets/26125735/3fa97a46-b7f8-4b9a-9f28-6812bc2b5154)
