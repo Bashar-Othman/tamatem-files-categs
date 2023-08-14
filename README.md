@@ -4,6 +4,19 @@
 
 navigate to the <h2><i>python folder</i></h2> directory , then execute the follwoing command :
 </BR>
+
+<h2>FileCategorizer.py</h2></br>
+this Python module consists of main 3 functions :
+<ul>
+<li>_filePrefixName</li>
+ <li>createPrefixsList</li>
+<li>copyFilesBasedOnPrefix</li>
+
+</ul>
+ 
+
+
+
 On windows 10 open CMD (or Visual Studio Code )and run the FileCategorizer.py file with two args source dir & destination dir as following :</BR>
  cmd > python .\FileCategorizer.py "E:\\TestJavaProjects\\one-k-files\\files" "E:\\TestJavaProjects\\one-k-files\\files\\categ"
 
