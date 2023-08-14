@@ -36,3 +36,9 @@ navigate to the <h2><i>java folder</i></h2> directory , then execute the follwoi
 
  Java MVN application :</br>
  navigate to the java folder and run the following commands : </br>
+ <ul>
+  <li>
+   mvn clean install
+  </li>
+  <li>then navigate to the target folder and run </br>java -jar FilesCateg-1.0-SNAPSHOT.jar "E:\\TestJavaProjects\\one-k-files\\files" "E:\\TestJavaProjects\\one-k-files\\files\\categ"</li>
+ </ul>
