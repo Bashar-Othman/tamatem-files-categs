@@ -40,5 +40,8 @@ navigate to the <h2><i>java folder</i></h2> directory , then execute the follwoi
   <li>
    mvn clean install
   </li>
-  <li>then navigate to the target folder and run </br>java -jar FilesCateg-1.0-SNAPSHOT.jar "E:\\TestJavaProjects\\one-k-files\\files" "E:\\TestJavaProjects\\one-k-files\\files\\categ"</li>
+  <li>then navigate to the target folder and run :</br>java -jar FilesCateg-1.0-SNAPSHOT.jar "E:\\TestJavaProjects\\one-k-files\\files" "E:\\TestJavaProjects\\one-k-files\\files\\categ"</li>
  </ul>
+
+ ![image](https://github.com/Bashar-Othman/tamatem-files-categs/assets/26125735/c4281214-efae-43b8-87c3-48b45a03a097)
+
